@@ -1,5 +1,5 @@
 # ChatApp
-This is my Internship Project in the Second Year of my B.Tech.
+This is my Workshop Project in the Second Year of my B.Tech.
 
 It's a clone of Whats_app
 
